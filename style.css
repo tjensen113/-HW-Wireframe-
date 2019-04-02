@@ -1,0 +1,93 @@
+
+*{
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {font-size: 24px
+  }
+  
+  header {
+     padding: 20px;
+    margin-bottom: 10px;
+    color: #333;
+    background: #ccc;  
+  }
+  nav {padding: 20px;
+    margin-bottom: 30px;
+    color: #333;
+    background: #ccc;}
+
+  section {
+      float:left;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;  
+    
+    
+     float: left;
+    width: 33.33%}
+  
+  
+  
+    
+  
+  #left {
+    padding: 20px;
+   margin-bottom: 20px;
+   color:  #333;
+   background: #666
+   
+  }
+  
+  #middle {
+    padding: 20px;
+   margin-bottom: 20px;
+   color: #333;
+   background: #888
+  }
+  
+  #right {
+    padding: 20px;
+   margin-bottom: 20px;
+   color: #333;
+   background: #666}
+  /* }add float herer i think */
+  
+  
+  
+  #full
+   
+   {  clear: both;
+    width: 100%; 
+  padding: 20px;
+   margin-bottom: 20px;
+   color: #333;
+   background: #ccc
+  }
+  
+ /* #division { */
+  
+  /* padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #6ea3da
+  } 
+   */
+  
+  aside {float: right;
+    padding: 20px;
+   height: 300px;
+   width: 33.33%;
+   color: #333;
+   background: #fff
+  }
+  
+  footer {
+  clear: both;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc}
+  
