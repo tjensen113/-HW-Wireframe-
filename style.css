@@ -23,66 +23,30 @@
     padding: 20px;
     margin-bottom: 20px;
     color: #333;
-    background: #ccc;  
+    background: #ccc;
+    height: 200px;  
     
     
      float: left;
-    width: 33.33%}
+     width: 52%}
+     
   
+    article{
+      background-color: #333
+    }
   
-  
-    
-  
-  #left {
+  aside {
     padding: 20px;
-   margin-bottom: 20px;
-   color:  #333;
-   background: #666
-   
-  }
-  
-  #middle {
-    padding: 20px;
-   margin-bottom: 20px;
-   color: #333;
-   background: #888
-  }
-  
-  #right {
-    padding: 20px;
-   margin-bottom: 20px;
-   color: #333;
-   background: #666}
-  /* }add float herer i think */
+    margin-bottom: 20px;
+    width: 47%;
+    color: #333;
+    background: #ccc;
+    float: right;
+    height: 200px;
+    }
   
   
-  
-  #full
-   
-   {  clear: both;
-    width: 100%; 
-  padding: 20px;
-   margin-bottom: 20px;
-   color: #333;
-   background: #ccc
-  }
-  
- /* #division { */
-  
-  /* padding: 20px;
-  margin-bottom: 20px;
-  color: #333;
-  background: #6ea3da
-  } 
-   */
-  
-  aside {float: right;
-    padding: 20px;
-   height: 300px;
-   width: 33.33%;
-   color: #333;
-   background: #fff
-  }
+
   
   footer {
   clear: both;
